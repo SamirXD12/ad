@@ -1,7 +1,7 @@
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
-if PlaceId == Id then
-    loadstring(game:HttpGet"PASTBIN")()
+if PlaceId == 6068693809 then
+    print("Hey")
 elseif PlaceId == ID  then
     loadstring(game:HttpGet"PASTBIN")()
 elseif PlaceId == Id then
